@@ -1,6 +1,7 @@
-<h1 align="center">Hi 👋, I'm Leonardo Takeshi Muniz</h1>
-<h3 align="center">A passionate software developer and tech enthusiast. I currently work as a Senior Backend Developer at KaBuM!
-With over 4 years of experience in the field, I've had the opportunity to work on various exciting projects and explore different technologies.</h3>
+# 👋 Hi there
+
+I'm Leonardo Muniz, a passionate software developer and tech enthusiast. I currently work as a  Senior Backend Developer at KaBuM! </br>
+With over 4 years of experience in the field, I've had the opportunity to work on various exciting projects and explore different technologies.
 
 - 📫 How to reach me **leomunniz@gmail.com**
 
